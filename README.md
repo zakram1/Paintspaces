@@ -1,7 +1,7 @@
 # Paintspaces
 
-This is a React web application for painting, this is the version of the app that is meant to be used for realtime local collaborative painting.
-The singleplayer version of the app is available at: https://paintspaces.netlify.app/
+- This is a React web application for painting, this is the version of the app that is meant to be used for realtime local collaborative painting.
+- The singleplayer version of the app is available at: https://paintspaces.netlify.app/
 
 ### Installation and Usage
 
